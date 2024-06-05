@@ -17,7 +17,7 @@ Como Rodar o Projeto Localmente:
 
 Se você deseja executar o projeto localmente em seu próprio ambiente de desenvolvimento, siga estas etapas simples:
 
-Clonar o Repositório: Clone o repositório do projeto para o seu computador local usando o comando git clone.
+Clonar o Repositório: Clone o repositório do projeto para o seu computador local usando o comando git clone git@github.com:Djefferson99/Teste-T-cnico---Zebra-Corretora.git.
 
 Instalar Dependências: Navegue até o diretório do projeto e instale as dependências necessárias para o front-end e o back-end usando npm install.
 
