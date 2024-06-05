@@ -1,6 +1,6 @@
 # Teste-Técnico---Zebra-Corretora
 
-Bem-vindo ao projeto de Teste Técnico! Este é um aplicação full stack desenvolvido.
+Bem-vindo ao projeto de Teste Técnico! Este é um aplicação full stack.
 
 Visão Geral do Projeto:
 
@@ -11,7 +11,7 @@ Este projeto utiliza uma variedade de tecnologias modernas para criar uma aplica
 
 Front-end: O front-end é desenvolvido usando React, typescript e axios.
 
-Back-end: O back-end é desenvolvido usando  Express.js, TypeScript.
+Back-end: O back-end é desenvolvido usando Express.js, TypeScript.
 
 Como Rodar o Projeto Localmente:
 
@@ -31,4 +31,4 @@ Contribuição e Feedback:
 
 Este projeto está sempre aberto para contribuições e feedback da comunidade. Se você encontrar problemas, bugs ou tiver sugestões de melhorias, não hesite em abrir uma issue no repositório do GitHub ou enviar um pull request com suas alterações.
 
-Agradecemos por fazer parte deste projeto e esperamos que você aproveite a experiência!
+Agradeço por fazer parte deste projeto e espero que você aproveite a experiência!
